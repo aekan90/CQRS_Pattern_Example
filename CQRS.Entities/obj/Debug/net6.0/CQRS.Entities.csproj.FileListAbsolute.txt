@@ -1,0 +1,12 @@
+C:\repos\GitHub\CQRS_Pattern\CQRS.Entities\bin\Debug\net6.0\CQRS.Entities.deps.json
+C:\repos\GitHub\CQRS_Pattern\CQRS.Entities\bin\Debug\net6.0\CQRS.Entities.dll
+C:\repos\GitHub\CQRS_Pattern\CQRS.Entities\bin\Debug\net6.0\CQRS.Entities.pdb
+C:\repos\GitHub\CQRS_Pattern\CQRS.Entities\obj\Debug\net6.0\CQRS.Entities.csproj.AssemblyReference.cache
+C:\repos\GitHub\CQRS_Pattern\CQRS.Entities\obj\Debug\net6.0\CQRS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\GitHub\CQRS_Pattern\CQRS.Entities\obj\Debug\net6.0\CQRS.Entities.AssemblyInfoInputs.cache
+C:\repos\GitHub\CQRS_Pattern\CQRS.Entities\obj\Debug\net6.0\CQRS.Entities.AssemblyInfo.cs
+C:\repos\GitHub\CQRS_Pattern\CQRS.Entities\obj\Debug\net6.0\CQRS.Entities.csproj.CoreCompileInputs.cache
+C:\repos\GitHub\CQRS_Pattern\CQRS.Entities\obj\Debug\net6.0\CQRS.Entities.dll
+C:\repos\GitHub\CQRS_Pattern\CQRS.Entities\obj\Debug\net6.0\refint\CQRS.Entities.dll
+C:\repos\GitHub\CQRS_Pattern\CQRS.Entities\obj\Debug\net6.0\CQRS.Entities.pdb
+C:\repos\GitHub\CQRS_Pattern\CQRS.Entities\obj\Debug\net6.0\ref\CQRS.Entities.dll

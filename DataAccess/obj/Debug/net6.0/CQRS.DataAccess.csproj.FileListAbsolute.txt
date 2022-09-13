@@ -1,0 +1,15 @@
+C:\repos\GitHub\CQRS_Pattern\DataAccess\bin\Debug\net6.0\CQRS.DataAccess.deps.json
+C:\repos\GitHub\CQRS_Pattern\DataAccess\bin\Debug\net6.0\CQRS.DataAccess.dll
+C:\repos\GitHub\CQRS_Pattern\DataAccess\bin\Debug\net6.0\CQRS.DataAccess.pdb
+C:\repos\GitHub\CQRS_Pattern\DataAccess\obj\Debug\net6.0\CQRS.DataAccess.csproj.AssemblyReference.cache
+C:\repos\GitHub\CQRS_Pattern\DataAccess\obj\Debug\net6.0\CQRS.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\GitHub\CQRS_Pattern\DataAccess\obj\Debug\net6.0\CQRS.DataAccess.AssemblyInfoInputs.cache
+C:\repos\GitHub\CQRS_Pattern\DataAccess\obj\Debug\net6.0\CQRS.DataAccess.AssemblyInfo.cs
+C:\repos\GitHub\CQRS_Pattern\DataAccess\obj\Debug\net6.0\CQRS.DataAccess.csproj.CoreCompileInputs.cache
+C:\repos\GitHub\CQRS_Pattern\DataAccess\obj\Debug\net6.0\CQRS.DataAccess.dll
+C:\repos\GitHub\CQRS_Pattern\DataAccess\obj\Debug\net6.0\refint\CQRS.DataAccess.dll
+C:\repos\GitHub\CQRS_Pattern\DataAccess\obj\Debug\net6.0\CQRS.DataAccess.pdb
+C:\repos\GitHub\CQRS_Pattern\DataAccess\obj\Debug\net6.0\ref\CQRS.DataAccess.dll
+C:\repos\GitHub\CQRS_Pattern\DataAccess\bin\Debug\net6.0\CQRS.Entities.dll
+C:\repos\GitHub\CQRS_Pattern\DataAccess\bin\Debug\net6.0\CQRS.Entities.pdb
+C:\repos\GitHub\CQRS_Pattern\DataAccess\obj\Debug\net6.0\CQRS.DataAccess.csproj.CopyComplete

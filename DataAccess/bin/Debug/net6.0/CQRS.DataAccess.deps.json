@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CQRS.DataAccess/1.0.0": {
+        "dependencies": {
+          "CQRS.Entities": "1.0.0"
+        },
+        "runtime": {
+          "CQRS.DataAccess.dll": {}
+        }
+      },
+      "CQRS.Entities/1.0.0": {
+        "runtime": {
+          "CQRS.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CQRS.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CQRS.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
