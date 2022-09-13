@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\DataAccess\\CQRS.DataAccess.csproj",
+      "projectUniqueName": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.DataAccess\\CQRS.DataAccess.csproj",
       "projectName": "CQRS.DataAccess",
-      "projectPath": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\DataAccess\\CQRS.DataAccess.csproj",
+      "projectPath": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.DataAccess\\CQRS.DataAccess.csproj",
       "packagesPath": "C:\\Users\\atifertugrul.kan\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\DataAccess\\obj\\",
+      "outputPath": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\atifertugrul.kan\\AppData\\Roaming\\NuGet\\NuGet.Config",

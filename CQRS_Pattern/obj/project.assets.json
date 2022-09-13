@@ -242,8 +242,8 @@
     },
     "CQRS.DataAccess/1.0.0": {
       "type": "project",
-      "path": "../DataAccess/CQRS.DataAccess.csproj",
-      "msbuildProject": "../DataAccess/CQRS.DataAccess.csproj"
+      "path": "../CQRS.DataAccess/CQRS.DataAccess.csproj",
+      "msbuildProject": "../CQRS.DataAccess/CQRS.DataAccess.csproj"
     },
     "CQRS.Entities/1.0.0": {
       "type": "project",
@@ -284,8 +284,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\repos\\GitHub\\CQRS_Pattern_Example\\DataAccess\\CQRS.DataAccess.csproj": {
-              "projectPath": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\DataAccess\\CQRS.DataAccess.csproj"
+            "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.DataAccess\\CQRS.DataAccess.csproj": {
+              "projectPath": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.DataAccess\\CQRS.DataAccess.csproj"
             }
           }
         }

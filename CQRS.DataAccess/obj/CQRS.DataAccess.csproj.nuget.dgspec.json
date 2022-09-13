@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\GitHub\\CQRS_Pattern_Example\\DataAccess\\CQRS.DataAccess.csproj": {}
+    "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.DataAccess\\CQRS.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.Entities\\CQRS.Entities.csproj": {
+    "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.DataAccess\\CQRS.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.Entities\\CQRS.Entities.csproj",
-        "projectName": "CQRS.Entities",
-        "projectPath": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.Entities\\CQRS.Entities.csproj",
+        "projectUniqueName": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.DataAccess\\CQRS.DataAccess.csproj",
+        "projectName": "CQRS.DataAccess",
+        "projectPath": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.DataAccess\\CQRS.DataAccess.csproj",
         "packagesPath": "C:\\Users\\atifertugrul.kan\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.Entities\\obj\\",
+        "outputPath": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\atifertugrul.kan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.Entities\\CQRS.Entities.csproj": {
+                "projectPath": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.Entities\\CQRS.Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -59,14 +63,14 @@
         }
       }
     },
-    "C:\\repos\\GitHub\\CQRS_Pattern_Example\\DataAccess\\CQRS.DataAccess.csproj": {
+    "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.Entities\\CQRS.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\DataAccess\\CQRS.DataAccess.csproj",
-        "projectName": "CQRS.DataAccess",
-        "projectPath": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\DataAccess\\CQRS.DataAccess.csproj",
+        "projectUniqueName": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.Entities\\CQRS.Entities.csproj",
+        "projectName": "CQRS.Entities",
+        "projectPath": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.Entities\\CQRS.Entities.csproj",
         "packagesPath": "C:\\Users\\atifertugrul.kan\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\DataAccess\\obj\\",
+        "outputPath": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\atifertugrul.kan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,11 +86,7 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.Entities\\CQRS.Entities.csproj": {
-                "projectPath": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS.Entities\\CQRS.Entities.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

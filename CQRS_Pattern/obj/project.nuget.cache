@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3B3lo+F6X9OjQrVsQ5jcWmaLx+Af1WrSbqBXlL8aVw6qzfBHuXdPPQzC5wilxiyquiNWuE30ahLhiuCt4IwwPg==",
+  "dgSpecHash": "3qSZ6oZwrsFILQlDgX9BDK6I4Qvxmhiyu/erTmDr+RsNDonl7G01lUl0J1bD45nmyX7UcYMoT9AoKGHfAw2ghg==",
   "success": true,
   "projectFilePath": "C:\\repos\\GitHub\\CQRS_Pattern_Example\\CQRS_Pattern\\CQRS.Api.csproj",
   "expectedPackageFiles": [
